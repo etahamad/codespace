@@ -1,0 +1,13 @@
+asgiref
+beautifulsoup4
+django
+djangorestframework
+keras
+mysqlclient
+pillow
+python-dotenv
+pytz
+requests
+scikit-image
+sqlparse
+tensorflow
