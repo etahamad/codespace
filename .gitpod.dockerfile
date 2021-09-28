@@ -12,7 +12,3 @@ gnupg gperf imagemagick lib32ncurses-dev lib32readline-dev lib32z1-dev liblz4-to
 libncurses5-dev libsdl1.2-dev libssl-dev libxml2 libxml2-utils lzop pngcrush rsync \
 schedtool squashfs-tools xsltproc yasm zip zlib1g-dev libtinfo5 libncurses5 ranger \
 neofetch mysql-server libmysqlclient-dev default-libmysqlclient-dev -y
-
-# Python Dependency
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
